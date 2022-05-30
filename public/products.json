@@ -1,0 +1,56 @@
+[
+  {
+    "price": "441.45",
+    "img": "https://baumeister.qodeinteractive.com/wp-content/uploads/2017/11/shop-img-1-635x755.jpg",
+    "minQuantity": 5,
+    "availableQuantity": 33,
+    "name": "Drill Machine",
+    "category": "power tools",
+    "description": "This product comes with very attractive design. The material used in it will meet your expectation and need also. Now with a new look it is even better than before and its quality will definitely meet your desire. So you may take this to bring smile and enjoy the feel of good quality product. "
+  },
+  {
+    "price": "$1,714.56",
+    "img": "https://baumeister.qodeinteractive.com/wp-content/uploads/2017/11/shop-img-13-635x755.jpg",
+    "minQuantity": 5,
+    "availableQuantity": 22,
+    "name": "Grinder",
+    "category": "power tools",
+    "description": " one of power tools or machine tools used for grinding. It is a type of machining using an abrasive wheel as the cutting tool. Each grain of abrasive on the wheel's surface cuts a small chip from the workpiece via shear deformation."
+  },
+  {
+    "price": "$2,233.88",
+    "img": "https://baumeister.qodeinteractive.com/wp-content/uploads/2017/11/shop-img-3-635x755.jpg",
+    "minQuantity": 40,
+    "availableQuantity": 24,
+    "name": "Power Saw",
+    "category": "power tools",
+    "description": "UP TO 75% MORE POWER: Brushless motor offers long life and increased power for the compact circular saw.LED of the cordless circular saw illuminates the cutting line and worksurface"
+  },
+  {
+    "price": "$3,277.41",
+    "img": "https://baumeister.qodeinteractive.com/wp-content/uploads/2017/11/shop-img-5-635x755.jpg",
+    "minQuantity": 5,
+    "availableQuantity": 36,
+    "name": "Cargo Crane",
+    "category": "power tools",
+    "description": "Reliably Powerful Lifting: The high-quality copper motor provides strong power that can bear large force without deformation for this electric winch. Single line capacity: 660 lbs/300 kg; double line capacity: 1320 lbs/600 kg."
+  },
+  {
+    "price": "$2,293.49",
+    "img": "https://baumeister.qodeinteractive.com/wp-content/uploads/2017/11/shop-img-9-635x755.jpg",
+    "minQuantity": 5,
+    "availableQuantity": 31,
+    "name": "Chain Saw",
+    "category": "power tools",
+    "description": "Brushless motor on this cordless chainsaw with high performance 60V 2.5 Ah battery pack for long runtime. Bubble level of battery chainsaw allows for precise and level cutting"
+  },
+  {
+    "price": "59",
+    "img": "https://baumeister.qodeinteractive.com/wp-content/uploads/2017/11/shop-img-11-635x755.jpg",
+    "minQuantity": 5,
+    "availableQuantity": 39,
+    "name": "Hammer",
+    "category": "power tools",
+    "description": "Forged steel head for superior durability hammer .ProTouch grip for maximum comfort even after prolonged use .Smooth face leaves fewer marks on surfaces"
+  }
+]
